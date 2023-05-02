@@ -23,14 +23,14 @@ class ContactsComponent extends React.Component {
         return (
             <div className={'contacts-contents-container'}>
                 <div className={'contacts-social-container'}>
-                    <a href="https://www.facebook.com/hackbotone/" target="_blank"><img src={facebook} className={'contact-social-img'}/></a>
-                    <a href="https://twitter.com/anspattnaik" target="_blank"><img src={twitter} className={'contact-social-img'}/></a>
-                    <a href="https://www.linkedin.com/in/anshuman123/" target="_blank"><img src={linkedin} className={'contact-social-img'}/></a>
-                    <a href="https://github.com/anshumanpattnaik" target="_blank"><img src={github} className={'contact-social-img'}/></a>
-                    <a href="https://www.youtube.com/anshumanpattnaik" target="_blank"><img src={youtube} className={'contact-social-img'}/></a>
+                    <a href="https://www.facebook.com" target="_blank"><img src={facebook} className={'contact-social-img'}/></a>
+                    <a href="https://twitter.com" target="_blank"><img src={twitter} className={'contact-social-img'}/></a>
+                    <a href="https://www.linkedin.com" target="_blank"><img src={linkedin} className={'contact-social-img'}/></a>
+                    <a href="https://github.com" target="_blank"><img src={github} className={'contact-social-img'}/></a>
+                    <a href="https://www.youtube.com" target="_blank"><img src={youtube} className={'contact-social-img'}/></a>
                 </div>
                 <div className={'contacts-footer-div'}></div>
-                <p className={'contacts-footer-text'}>© 2020 HACKBOTONE. ALL RIGHTS RESERVED.</p>
+                <p className={'contacts-footer-text'}>© 2020 ANBARASAN. ALL RIGHTS RESERVED.</p>
             </div>
         );
     }
