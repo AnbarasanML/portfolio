@@ -41,7 +41,7 @@ class ProfileComponent extends React.Component {
                             To improve my skill sets in security I like to participate in various Bug Bounty programs (Bugcrowd, HackerOne & many others) In Bug Bounty programs, I found many vulnerabilities that come under OWASP top 10.
                             </p>
                         <p className={'dashboard-profile-deatils'}>
-                            As a hobby love to make games using Unity3d game engine and to share my work with developer communities I write <a href="https://hackbotone.com/" className={'profile-details-link'} target="_blank">blogs</a> and make tutorial videos on my <a href="https://www.youtube.com/anshumanpattnaik" className={'profile-details-link'} target="_blank">Youtube channel.</a>
+                            As a hobby love to make games using Unity3d game engine and to share my work with developer communities I write <a href="https://hackbotone.com/" className={'profile-details-link'} target="_blank">blogs</a> and make tutorial videos on my <a href="https://www.youtube.com" className={'profile-details-link'} target="_blank">Youtube channel.</a>
                         </p>
                     </div>
                 </div>
