@@ -1,7 +1,7 @@
 import React from 'react';
 import "../css/index.css";
 
-import profile from "../images/ic_profile_img.jpg";
+import profile from "../images/profile.png";
 import facebook from "../images/ic_facebook.png";
 import twitter from "../images/ic_twitter.png";
 import github from "../images/ic_github.png";
